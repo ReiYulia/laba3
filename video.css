@@ -1,0 +1,19 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 5rem;
+    background-color: rgb(185, 119, 215);
+    padding: 10px;
+}
+.list-item{
+  padding: 3px 5px;
+  text-decoration: none;
+  background-color: aliceblue;
+  border-radius: 3px;
+  color: black;
+}
+#video{
+  background-color: rgb(143, 181, 200);
+}
